@@ -16,6 +16,11 @@ Clone repo locally: git clone https://github.com/RyanWood2334/challenge-2.git
 Get into correct directory: cd challenge-2
 Open in VS code: code .
 
+
+## Mock-up
+
+![Getting Started](./assets\fullsizescreenshot.png)
+
 ## Support
 Send all queries for support or assistance to:
 
