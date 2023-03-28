@@ -1,6 +1,6 @@
 # challenge-2
 ## Description
-This is a website that discusses search engine optimization, online reputation, and media marketing. Using a mixture of HTML and CSS, with the selectors and specificity that make it more accessible across various platforms. It was challenging to figure out just -how- much you can (and can't) keep boiling down and condensing both the HTML and CSS files. In future projects I think I would try and start refactoring as I go, instead of diving in after 100+ lines of code, in an attempt to be more efficient from the start.
+This is my personal portfolio, it is (nearly 100%) a responsive webpages, with multiple media queries, a flex grid, multiple flexboxes, and transitions and animations abound. It was really engaging to tackle all these design issues, and while it took a considerable amount of time, learning the ins and outs of these various nuances wasvery valuable to me. I'm excited to keep building on this page and add javaScript to it and really round it all out! Bonus points if you can find the llama!
 
 ## Installation
 This website is available online at: https://ryanwood2334.github.io/challenge-2/
@@ -13,7 +13,7 @@ No dependencies in this project, and all relevant pictures are contained within 
 In your terminal/shell:
 
 Clone repo locally: git clone https://github.com/RyanWood2334/challenge-2.git
-Get into correct directory: cd challenge-1
+Get into correct directory: cd challenge-2
 Open in VS code: code .
 
 ## Support
